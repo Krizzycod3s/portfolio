@@ -3,9 +3,15 @@ import Image from 'next/image'
 import { ButtonAlt, Section } from '../../styles/styles'
 import { CardContactContainer, CardContactContent } from './styles'
 import { TelegramLogo } from 'phosphor-react'
+import { motion } from "framer-motion";
 
 export function CardContact() {
   return (
+    <motion.div
+    initial={{ y: 300, opacity: 0 }}
+    transition={{ duration: 1.2 }}
+    whileInView={{ opacity: 1, y: 0 }}
+    viewport={{ once: true }}>
     <Section>
       <CardContactContainer>
         <div className='ellipse'> 
@@ -50,5 +56,6 @@ export function CardContact() {
         </Link>
       </CardContactContainer>
     </Section>
+    </motion.div>
   )
 }
