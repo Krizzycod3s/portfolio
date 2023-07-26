@@ -11,5 +11,7 @@ export const defaultTheme = {
   white: "#f6f2f2",
   border: "#0c0b0e",
   borderSecond: "#1e1e25",
+  gray: '#b1bcdc',
+
   
 } as const
