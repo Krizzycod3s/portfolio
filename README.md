@@ -4,7 +4,7 @@
 
 My portfolio created with the aim of showing my projects.
 
-- Website: [evander.vercel.app](https://krizzydev.vercel.app/)
+- Website: [krizzydev.vercel.app](https://krizzydev.vercel.app/)
 
 ## 🚀 Tecnologies
 
