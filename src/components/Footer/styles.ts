@@ -15,6 +15,9 @@ export const FooterContainer = styled.footer`
     flex-direction: row;
     justify-content: space-around;
   }
+   @media (max-width: 460px) {
+     padding: 2rem 5rem ;
+   }
 
   .links {
     cursor: pointer;

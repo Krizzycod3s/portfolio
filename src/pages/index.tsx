@@ -7,7 +7,7 @@ import { Projects } from '../components/Projects'
 import { Skills } from '../components/Skills'
 import { ScrollTop } from '../components/ScrollTop'
 import { Section } from '../styles/styles'
-import { Contact } from '../components/Contact'
+import { CardContact } from '../components/CardContact'
 import { Footer } from '../components/Footer'
 import { Education } from '../components/Education'
 import { Work } from '../components/Work'
@@ -29,7 +29,7 @@ export default function Home() {
         {/* <Education />
         <Work />  */}
         <Projects />
-        <Contact />
+        <CardContact />
       </Section>
       <Footer />
     </>

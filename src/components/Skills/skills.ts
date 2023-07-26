@@ -37,9 +37,9 @@ const cardSkills = [
   },
   {
     id: 7,
-    title: "Prisma",
-    img: "/skills/prisma.svg",
-    color: "#61DAFB",
+    title: "Git",
+    img: "/skills/git.svg",
+    color: "#ad2e11",
   },
   {
     id: 8,

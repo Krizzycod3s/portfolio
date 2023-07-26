@@ -9,7 +9,7 @@ export function Footer() {
   return (
     <FooterContainer>
       
-      <h4> &copy; {new Date().getFullYear()} Crafted with ❤️ by Umoren Christopher</h4>
+      <h4> &copy; {new Date().getFullYear()} Crafted with ❤️ by Christopher Umoren</h4>
       <div className="links">
         <Link href={'https://github.com/Krizzycod3s'}>
           <a target="_blank" aria-label="Link to Github">
