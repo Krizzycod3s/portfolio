@@ -14,7 +14,7 @@ This project was developed with the following technologies:
 - TypeScript
 - Styled Components
 
-## 📚 Bibliotecas
+## 📚Libraries
 
 - [Google Fonts](https://fonts.google.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
